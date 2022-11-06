@@ -5,7 +5,7 @@
 <h2>Sobre:</h2>
 <p>Temporizador web, cujo intuito é armazenar uma lista de estudos de um determinada matéria e realizar a aferição do "timer" do mesmo</p>
 
->projeto em desenvolvimento
+>Primeira versão do projeto finalizada
 
 <h3>Para Baixar as Dependencias Necessárias:</h3>
 
