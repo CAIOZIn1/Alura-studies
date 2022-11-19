@@ -40,3 +40,5 @@ OBS.: e (npm i --save-dev @types/uuid) para o typescript compreender qual é seu
 ```
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+>clique <a href='https://alura-studies-six-lemon.vercel.app/'> aqui </a> para visitar o site
